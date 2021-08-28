@@ -1,7 +1,7 @@
 ---
   galaxy_info:
     role_name: ustreamer
-    author: Michael Lynch
+    author: Adrian Griffin
     description: A lightweight, optimized video streaming service
     license: MIT
 
